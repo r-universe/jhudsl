@@ -18,18 +18,3 @@
 	url = https://github.com/jhudsl/ottrpal
 	shallow = true
 	registered = true
-[submodule "aws.polly"]
-	path = aws.polly
-	url = https://github.com/cloudyr/aws.polly
-	shallow = true
-	registered = false
-[submodule "aws.signature"]
-	path = aws.signature
-	url = https://github.com/cloudyr/aws.signature
-	shallow = true
-	registered = false
-[submodule "text2speech"]
-	path = text2speech
-	url = https://github.com/muschellij2/text2speech
-	shallow = true
-	registered = false
