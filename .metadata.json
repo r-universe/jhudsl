@@ -1,5 +1,9 @@
 [
   {
+    "package": "ari",
+    "oncran": true
+  },
+  {
     "package": "crsra",
     "oncran": true
   },
@@ -9,6 +13,10 @@
   },
   {
     "package": "ottrpal",
+    "oncran": true
+  },
+  {
+    "package": "text2speech",
     "oncran": true
   }
 ]
