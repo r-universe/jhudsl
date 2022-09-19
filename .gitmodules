@@ -13,6 +13,11 @@
 	url = https://github.com/jhudsl/crsra
 	shallow = true
 	registered = true
+[submodule "matahari"]
+	path = matahari
+	url = https://github.com/jhudsl/matahari
+	shallow = true
+	registered = true
 [submodule "ottrpal"]
 	path = ottrpal
 	url = https://github.com/jhudsl/ottrpal
