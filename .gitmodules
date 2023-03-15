@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ari"]
-	path = ari
-	url = https://github.com/jhudsl/ari
+[submodule "ottrpal"]
+	path = ottrpal
+	url = https://github.com/jhudsl/ottrpal
 	shallow = true
 	registered = true
 [submodule "crsra"]
@@ -13,19 +13,19 @@
 	url = https://github.com/jhudsl/crsra
 	shallow = true
 	registered = true
-[submodule "matahari"]
-	path = matahari
-	url = https://github.com/jhudsl/matahari
-	shallow = true
-	registered = true
-[submodule "ottrpal"]
-	path = ottrpal
-	url = https://github.com/jhudsl/ottrpal
-	shallow = true
-	registered = true
 [submodule "text2speech"]
 	path = text2speech
 	url = https://github.com/jhudsl/text2speech
+	shallow = true
+	registered = true
+[submodule "ari"]
+	path = ari
+	url = https://github.com/jhudsl/ari
+	shallow = true
+	registered = true
+[submodule "matahari"]
+	path = matahari
+	url = https://github.com/jhudsl/matahari
 	shallow = true
 	registered = true
 [submodule "aws.polly"]

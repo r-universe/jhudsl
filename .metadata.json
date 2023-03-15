@@ -1,6 +1,6 @@
 [
   {
-    "package": "ari",
+    "package": "ottrpal",
     "oncran": true
   },
   {
@@ -8,15 +8,15 @@
     "oncran": true
   },
   {
-    "package": "matahari",
-    "oncran": true
-  },
-  {
-    "package": "ottrpal",
-    "oncran": true
-  },
-  {
     "package": "text2speech",
+    "oncran": true
+  },
+  {
+    "package": "ari",
+    "oncran": true
+  },
+  {
+    "package": "matahari",
     "oncran": true
   }
 ]
