@@ -38,3 +38,8 @@
 	url = https://github.com/cloudyr/aws.signature
 	shallow = true
 	registered = false
+[submodule "mscstts2"]
+	path = mscstts2
+	url = https://github.com/howardbaek/mscstts2
+	shallow = true
+	registered = false

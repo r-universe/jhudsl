@@ -12,6 +12,12 @@
     "from": "ari"
   },
   {
+    "package": "mscstts2",
+    "url": "https://github.com/howardbaek/mscstts2",
+    "via": ["text2speech"],
+    "from": "text2speech"
+  },
+  {
     "package": "text2speech",
     "url": "https://github.com/muschellij2/text2speech",
     "via": ["ari"],
