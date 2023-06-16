@@ -18,6 +18,11 @@
 	url = https://github.com/jhudsl/matahari
 	shallow = true
 	registered = true
+[submodule "mscstts"]
+	path = mscstts
+	url = https://github.com/jhudsl/mscstts
+	shallow = true
+	registered = true
 [submodule "ottrpal"]
 	path = ottrpal
 	url = https://github.com/jhudsl/ottrpal
