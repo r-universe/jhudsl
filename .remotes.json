@@ -12,8 +12,8 @@
     "from": "ari"
   },
   {
-    "package": "mscstts2",
-    "url": "https://github.com/howardbaek/mscstts2",
+    "package": "conrad",
+    "url": "https://github.com/fhdsl/conrad",
     "via": ["text2speech"],
     "from": "text2speech"
   },
