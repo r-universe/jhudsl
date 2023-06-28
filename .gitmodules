@@ -1,50 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ari"]
 	path = ari
 	url = https://github.com/jhudsl/ari
-	shallow = true
-	registered = true
 [submodule "crsra"]
 	path = crsra
 	url = https://github.com/jhudsl/crsra
-	shallow = true
-	registered = true
 [submodule "matahari"]
 	path = matahari
 	url = https://github.com/jhudsl/matahari
-	shallow = true
-	registered = true
 [submodule "mscstts"]
 	path = mscstts
 	url = https://github.com/jhudsl/mscstts
-	shallow = true
-	registered = true
 [submodule "ottrpal"]
 	path = ottrpal
 	url = https://github.com/jhudsl/ottrpal
-	shallow = true
-	registered = true
 [submodule "text2speech"]
 	path = text2speech
 	url = https://github.com/jhudsl/text2speech
-	shallow = true
-	registered = true
 [submodule "aws.polly"]
 	path = aws.polly
 	url = https://github.com/cloudyr/aws.polly
-	shallow = true
 	registered = false
 [submodule "aws.signature"]
 	path = aws.signature
 	url = https://github.com/cloudyr/aws.signature
-	shallow = true
 	registered = false
 [submodule "conrad"]
 	path = conrad
 	url = https://github.com/fhdsl/conrad
-	shallow = true
 	registered = false
