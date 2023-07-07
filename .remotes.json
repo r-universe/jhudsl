@@ -14,12 +14,18 @@
   {
     "package": "conrad",
     "url": "https://github.com/fhdsl/conrad",
+    "via": ["ari", "text2speech"],
+    "from": "ari"
+  },
+  {
+    "package": "conrad",
+    "url": "https://github.com/fhdsl/conrad",
     "via": ["text2speech"],
     "from": "text2speech"
   },
   {
     "package": "text2speech",
-    "url": "https://github.com/muschellij2/text2speech",
+    "url": "https://github.com/jhudsl/text2speech",
     "via": ["ari"],
     "from": "ari"
   }
