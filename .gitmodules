@@ -5,6 +5,18 @@
 [submodule "ari"]
 	path = ari
 	url = https://github.com/jhudsl/ari
+[submodule "aws.polly"]
+	path = aws.polly
+	url = https://github.com/cloudyr/aws.polly
+	registered = false
+[submodule "aws.signature"]
+	path = aws.signature
+	url = https://github.com/cloudyr/aws.signature
+	registered = false
+[submodule "conrad"]
+	path = conrad
+	url = https://github.com/fhdsl/conrad
+	registered = false
 [submodule "crsra"]
 	path = crsra
 	url = https://github.com/jhudsl/crsra
@@ -20,15 +32,3 @@
 [submodule "text2speech"]
 	path = text2speech
 	url = https://github.com/jhudsl/text2speech
-[submodule "aws.polly"]
-	path = aws.polly
-	url = https://github.com/cloudyr/aws.polly
-	registered = false
-[submodule "aws.signature"]
-	path = aws.signature
-	url = https://github.com/cloudyr/aws.signature
-	registered = false
-[submodule "conrad"]
-	path = conrad
-	url = https://github.com/fhdsl/conrad
-	registered = false
