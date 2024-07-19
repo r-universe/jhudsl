@@ -18,6 +18,12 @@
     "from": "ari"
   },
   {
+    "package": "cow",
+    "url": "https://github.com/jhudsl/cow",
+    "via": ["ottrpal"],
+    "from": "ottrpal"
+  },
+  {
     "package": "text2speech",
     "url": "https://github.com/jhudsl/text2speech",
     "via": ["ari"],

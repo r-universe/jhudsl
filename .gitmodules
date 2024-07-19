@@ -17,6 +17,10 @@
 	path = conrad
 	url = https://github.com/fhdsl/conrad
 	registered = false
+[submodule "cow"]
+	path = cow
+	url = https://github.com/jhudsl/cow
+	registered = false
 [submodule "crsra"]
 	path = crsra
 	url = https://github.com/jhudsl/crsra
