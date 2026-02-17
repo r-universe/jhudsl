@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ari"]
-	path = ari
-	url = https://github.com/jhudsl/ari
 [submodule "aws.polly"]
 	path = aws.polly
 	url = https://github.com/cloudyr/aws.polly
@@ -29,3 +26,4 @@
 [submodule "text2speech"]
 	path = text2speech
 	url = https://github.com/jhudsl/text2speech
+	registered = false
