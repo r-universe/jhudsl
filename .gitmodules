@@ -2,18 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "aws.polly"]
-	path = aws.polly
-	url = https://github.com/cloudyr/aws.polly
-	registered = false
-[submodule "aws.signature"]
-	path = aws.signature
-	url = https://github.com/cloudyr/aws.signature
-	registered = false
-[submodule "conrad"]
-	path = conrad
-	url = https://github.com/fhdsl/conrad
-	registered = false
 [submodule "matahari"]
 	path = matahari
 	url = https://github.com/jhudsl/matahari
@@ -23,7 +11,3 @@
 [submodule "ottrpal"]
 	path = ottrpal
 	url = https://github.com/jhudsl/ottrpal
-[submodule "text2speech"]
-	path = text2speech
-	url = https://github.com/jhudsl/text2speech
-	registered = false
