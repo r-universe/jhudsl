@@ -8,3 +8,6 @@
 [submodule "ottrpal"]
 	path = ottrpal
 	url = https://github.com/jhudsl/ottrpal
+[submodule "text2speech"]
+	path = text2speech
+	url = https://github.com/jhudsl/text2speech
